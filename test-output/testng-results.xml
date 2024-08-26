@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-26T16:00:02 EDT" name="Suite" finished-at="2024-08-26T16:00:17 EDT" duration-ms="14354">
+    <groups>
+    </groups>
+    <test started-at="2024-08-26T16:00:02 EDT" name="Test" finished-at="2024-08-26T16:00:17 EDT" duration-ms="14354">
+      <class name="com.it360.qa.TestCases.PaymentTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.it360.qa.TestCases.PaymentTest@5542c4ed]" started-at="2024-08-26T16:00:02 EDT" name="setup" finished-at="2024-08-26T16:00:09 EDT" duration-ms="6896" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifySuccessfulPurchaseOfValidProduct()[pri:1, instance:com.it360.qa.TestCases.PaymentTest@5542c4ed]" started-at="2024-08-26T16:00:09 EDT" name="verifySuccessfulPurchaseOfValidProduct" finished-at="2024-08-26T16:00:17 EDT" duration-ms="7358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySuccessfulPurchaseOfValidProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.it360.qa.TestCases.PaymentTest@5542c4ed]" started-at="2024-08-26T16:00:17 EDT" name="tearDown" finished-at="2024-08-26T16:00:17 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.it360.qa.TestCases.PaymentTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
